@@ -69,7 +69,7 @@ BEGIN
             VALUE "FileOpenName", "ActiveX (*.dll)"
             VALUE "FileVersion", "1.0"
             VALUE "InternalName", "npffAudioMonitorHost.dll"
-            VALUE "LegalCopyright", "(c) Cisco Systems, Inc All rights reserved."
+            VALUE "LegalCopyright", "(c) MyCompany Systems, Inc All rights reserved."
             VALUE "MIMEType", "application/AudioMonitor-ActiveX"
             VALUE "OriginalFilename", "npffAudioMonitorHost.dll"
             VALUE "ProductName", "AudioMonitorActiveX hosting plugin for Firefox"

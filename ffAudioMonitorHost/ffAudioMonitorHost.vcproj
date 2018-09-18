@@ -64,7 +64,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="comsvcs.lib version.lib"
-				OutputFile="C:\Users\schikmag\AppData\Roaming\Mozilla\Firefox\Profiles\uqbn6m3e.default\extensions\schikmag@cisco.com\plugins\npffActiveXHost.dll"
+				OutputFile="C:\Users\schikmag\AppData\Roaming\Mozilla\Firefox\Profiles\uqbn6m3e.default\extensions\schikmag@mycompany.com\plugins\npffActiveXHost.dll"
 				LinkIncremental="2"
 				ModuleDefinitionFile="ffAudioMonitorHost.def"
 				GenerateDebugInformation="true"
